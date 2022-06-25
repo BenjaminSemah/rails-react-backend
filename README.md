@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Hello-App-brown)
 
 # hello-rails-backend
-> This is a hello rails backend connected with [Hello-react-front-end rep]()
+>[Link to frontend](https://github.com/BenjaminSemah/rails-react-frontend)
 ## Built With
 
 - Ruby
